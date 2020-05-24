@@ -1,7 +1,7 @@
 name: Electrum Vault
 description: Shocking way of storing items.
 type: Vault
-itemCapacity: 2500
+itemCapacity: 10000
 hasItems: true
 health: 2000
 size: 3
